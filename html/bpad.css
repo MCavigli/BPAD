@@ -1,0 +1,16 @@
+body {
+	width: 750px;
+	background-color: DarkCyan;
+	margin: 0 auto;
+	}
+
+.navbar {
+	float: right;
+	}
+
+.container_top {
+	margin-top:15px;
+	margin-left:15px;
+	margin-right:15px;
+	float:left;
+	}
